@@ -12,7 +12,7 @@ export function Hero({ query, onQueryChange }: HeroProps) {
         <h1 className="hero__title">
           원하는 집을,
           <br />
-          <span className="hero__title-accent">빠르고 정확하게</span>
+          <span className="hero__title-accent">빠르고 정확하고, 쉽게</span>
         </h1>
         <p className="hero__lead">
           지역·가격·면적을 한 번에 비교하고, 검증된 중개 정보로 결정을 돕습니다.
